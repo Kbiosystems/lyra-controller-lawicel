@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net45;net46</TargetFrameworks>
+    <RootNamespace>LyraElectronics.Controller</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LyraElectronics.Core" Version="1.1.0.71" />
+  </ItemGroup>
+
+</Project>
